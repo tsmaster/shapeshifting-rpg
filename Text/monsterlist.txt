@@ -1,0 +1,1469 @@
+Goblin
+goblin (rare)
+goblin (rare) (not to be confused with the giant frog)  
+Goblin Knight
+Goblin Warg
+Goblin Blastmage
+Zombie Goblin 
+goblin zombie (female)
+Ice-Eared Goblin
+goblin bard (or sorcerer wizard)
+goblin ranger (or fighter mage)
+goblin king
+goblin boss (but more later)
+
+orc
+orc warrior (rare)
+orc warrior (shapeshifter)
+orc warrior zombie
+orc monk
+orcish monk
+orc priest
+orc priest (adult)
+orc high priest
+orc zombie
+orc shaman
+orc demon
+orc witch
+orc youth
+orc sorcerer 
+orc warrior
+orc knight
+orcish warrior
+orcish paladin
+orcish warlord
+orc shaman (adult)
+
+Ogre
+Ogre Lord
+ogre (the monster type is based on giant centaur)
+ogre (shapeshifter)
+ogre mage
+ogre zombie
+ancient ogre
+fire ogre
+ogre priest
+ogre warrior
+ogre lord
+
+Elf
+elf (rare)
+elf warrior
+deep elf fighter 
+deep elf conjurer
+deep elf summoner
+deep elf annihilator
+deep elf high priest
+deep elf warpriest
+elf raider
+elf warrior of legend
+elven warrior of legend of blood
+ancient elf
+water elf
+elf knight
+half elf
+dark elf
+dark elf conjurer
+elf zombie
+elf zombie (female)
+
+Gnome
+gnome artificer
+giant gnome
+gnome monk
+
+Gnoll
+gnoll warrior
+gnoll archer
+gnoll paladin
+gnoll monk
+gnoll shaman 
+gnoll warlock
+gnoll chieftain
+
+=GOOS=
+Gelatinous Cube
+slime creature
+green goo
+swamp mre oom 
+giant amoebae 
+tentacle
+ooze
+
+=UNDEAD=
+Undead
+==SKELETONS==
+Skeleton
+Skeletron
+skeleton (can be killed as a boss or taken as a pet)
+Skeleton Archer
+skeletal mage
+skeletal mage
+skeletal warrior
+skeletal warrior skeleton
+ice giant skeleton
+undead knight skeleton
+==VAMPIRES==
+Vampire 
+vampire knight
+Vampire Prince
+vampire king
+vampire lord
+wood elf vampire king
+giant tree vampire king
+vampire bat
+vampire zombie (male)
+vampiric bloodseeker
+vampire batsman
+vampiric lord (adult)
+vampiric lord (16 levels)
+==WIGHTS==
+Wight
+wight (druid)
+wight (hell hog)
+==WRAITHS==
+wraith
+wraith knight
+shadow wraith
+freezing wraith
+==GHOSTS==
+Ghost
+evil ghost
+ice spirit
+spirit guardian
+White Wind
+ghost of night and lightning, who has resistances to fire but not electricity, and can also breathe lightning
+a giant lemure whose tentacles reach into every living thing in the kingdom
+phantasmal warrior
+???? ????
+==ZOMBIES==
+zombie
+zombie shaman
+zombie queen
+zombie king
+zombie (noctilucent slime creature)
+zombie (centaurs) 
+zombie (scorpion) (noctilucent ogre monster)  
+zombie (horror/gargoyle) 
+zombie (mummy) (horror/gargoyle) 
+zombie (goblin) (noctilucent ogre monster) 
+zombie (spider)
+zombie w/ death's grasp
+zombier
+zombier wyvern
+kobold zombie
+Giant Zombie
+Undead Zombie
+Zombified
+Zombot
+==MUMMIES==
+mummy
+mummy priest
+mummy priest with a big maw
+a giant mummified corpse
+==LICHES==
+lich
+lich lord
+ancient lich
+
+==RATS==
+Giant Rat
+Rat Warrior
+Rat Master
+Rat Ogre
+Rat Pirate
+Rat Raider
+Rat Wizard
+Rat Zombie
+Rat Ogre Soldier
+Rat Goblin Fighter
+Rat Goblin Mage
+Rat Goblin Mage Fighter
+Rat Goblin Master Fighter
+Rat Goblin Master Fighter Archer
+Rat Goblin Priest
+Rat Goblin Ranger
+Rat Goblin Shaman
+Rat Goblin Shaman Fighter
+Rat Goblin Sniper
+Rat Goblin Soldier
+Rat Goblin Soldier Fighter
+Rat Goblin Soldier Fighter Paladin
+Rat Goblin Soldier Sniper Fighter
+Rat Goblin Warlock Fighter
+Rat Goblin Warrior Fighter
+Rat Goblin Warrior Fighter Fighter Mage Archer
+Rat Goblin Warrior Fighter Mage
+Rat Goblin Warrior Fighter Shaman
+Rat Goblin Witch Fighter
+Rat Goblin Wizard Fighter
+Rat Goblin Wizard Fighter Shaman
+Rat Goblet Knight
+Rat Goblet Knight Fighter
+Rat Goblet Knight Fighter Soldier
+Rat Goblet Knight Fighter Soldier Knight
+rat king
+rat king/dragon king
+ratfolk
+Rat Pikeman
+water rat
+
+=DEMONS, DEVILS, FROM HELL=
+Imp
+fire imp
+minor demon
+Demon
+demon bride
+demon creature
+demon beast
+large demon
+giant demon
+demon priest (and some others)
+demon knight's fire
+Demon of Death
+Demon of Destruction
+demon knight
+Demon Lord
+demon lord w/ death
+antique demon lord
+Demon Hunter
+demon princess
+demon queen
+demon king
+King of Demons
+the demon - The first demon (the one at the top)
+demon god
+demonspawn
+hellhound
+hell hog
+hell hog (Hell) 
+kobold demonologist
+kobold demonologist (Hell) 
+hydra zombie (Hell) 
+hell knight
+hellknight
+hell beast
+hellwing
+Hellion
+hellion (female)
+hellion, ogre zombie (male, black belt)
+Devil Archer
+devil-cannibal
+fire devil
+the devil
+the devil (who just got back from hell)
+hell knight
+Hellwing
+archdemon
+doom monster
+death's golem
+abomination with huge claws
+==SHADOW THINGS==
+shadow shaman and paladin
+shadow fiend
+shadow priest
+shadow lord
+Shadow Prince
+shadow king
+shadow dragon
+shadowspire dragon
+shadow dragonkin (also known as shadow archfiend by the old dragons)
+shadow dragonknight
+shadow drake
+shadow drake king (shapeshifter type)
+Twilight Drake
+shadowspawn (also known as shadowspawn king)
+shadow wraith
+shadow demon
+Shadowflame
+shadow viper
+shadowfang
+the demon prince from Giza
+cursed soldier
+cursed monk
+Doomblade
+Death Knight
+kobold demon lord
+hell warrior
+hell kraken
+fire giant (sailor of hell)
+Troll-Curse-Hellion-Razor-Troll
+spectral hell knight
+Hell Hound 
+ghostly hell hound
+red devil skeleton
+hell knight
+hell knight skeleton
+Devil of Death's Road
+Nightbane
+baphomet
+dark god
+
+=SPECTRAL=
+spectral warrior
+spectral balor (shapeshifter type)
+spectral iron dragon
+spectral leech (shapeshifter type)
+spectral shadow dragon (shapeshifter type)
+spectral shadow king (shapeshifter type)
+spectral wizard
+spectral orc warlord (no class-based spells)
+spectral ogre
+spectral ogre (no class-based spells)
+spectral ogre mage
+spectral ogre mage (no class-based spells)
+spectral ogrespawn (no class-based spells)
+spectral giant mite
+spectral spider
+spectral spider (no class-based spells)
+spectral merfolk
+spectral merfolk shaman
+spectral naga berserker (no class-based spells)
+spectral wyrm
+spectral death drake
+spectral shadow fiend (no class-based spells)
+spectral shadow demon (no class-based spells)
+spectral necromancer
+spectral lich
+spectral undead (no class-based spells)
+spectral giant (no class-based spells)
+
+=INDIVIDUALS=
+Grendel
+batman
+ant man
+batwoman
+wolverine
+batfish
+bat archmage
+Druid of the Claw
+Defender of Argus
+Guardian of Argus
+Hunter of the Hunt
+Druid of the Flame
+Dr. Mundo
+Grom'kar the Slitherer
+tazkad the iron
+krampus
+Prince Ribbit
+hoggle the thief
+Gruul Lord of Fear
+Vexor
+jak-47: japanese warlord with the japanese manta ray.
+Zeus
+Nimrod
+Heinrich
+Cynthia
+Vladimir
+Nathaniel
+Jason
+Jakob
+Viktor
+Juliet
+Tidebringer
+
+=BOSSES=
+under boss
+the boss itself
+Final Boss
+
+=DRAGONS=
+Dragon
+Dragonkin
+Giant Dragon
+Zombie Dragon
+Wretched Dragon
+Beast Dragon
+Wyrd Dragon
+Dragon-Lich
+Dragonlord
+Wretched Dragon
+Demon Dragon
+Red Dragon
+big red dragon
+huge red dragon
+red dragon of the ocean, whose elemental resistances are fire and ice
+red draconian simulacrum
+green dragon, who has a natural swim speed
+Blue Dragon
+blue dragon lord
+yellow draconian simulacrum
+golden dragon
+White Drake
+Black Dragon
+Wyrd Serpent
+Young Dragon (Belly of the Beast)
+Salamander
+bird-tooth salamanders (1st edition)
+azure dragon dragon
+Dragon Knight
+Dragon Priest
+==ELEMENTAL DRAGONS==
+giant fire dragons (sans the earth)
+giant fire wyrm
+giant lava dragon
+giant air dragon (sans the sun)
+giant air wyrm
+giant wind wyrm
+giant lightning dragon (sans the moon)
+giant earth dragons (sans the ground)
+giant earth dragons (sans the sun)
+giant earth wyrm
+giant water dragon (sans the light)
+giant water wyrm
+giant sea wyrm
+giant ice wyrm
+storm dragon
+storm drake
+storm dragon skeleton
+storm dragon zombie
+storm dragon king
+==KOBOLDS==
+kobold
+Kobold Hunter
+kobold summoner (familiar)
+kobold shaman
+kobold druid
+Kobold Raider Druid
+spectral kobold
+==LIZARDS==
+Lizard
+Swamp Lizard
+giant lizard
+lizard (giant)
+lizard (glider)
+giant gecko
+shadow dragon lord
+draconian shifter
+draconian zealot
+dragon monk
+dragon suit
+Ghostly Drake
+Dragonoid
+drake lord
+dragon's tears
+big blue snake
+hellwing dragon
+hellwing dragon simulacrum
+swamp dragon
+swamp dragon zombie
+swamp drake
+death drake 
+ice drake
+ice dragon 
+ice dragon zombie 
+wind drake 
+wyvern
+thunder dragon 
+thunderbolt dragon 
+lightning bolt dragon
+lightning serpent, who has resistances to lightning but not water or electricity
+komodo dragon
+Dragon Fish
+dragon monk
+dragon warrior
+dragon turtle
+fire drake
+undead dragon
+dragon zombie
+dragon (with wings)
+ice dragon (shapeshifter)
+kokodo (Dragon)
+Wyvern rider (Wyvern Rider is only possible in dark fantasy/epic)
+Dragon rider (Dragon rider is impossible because that's just too stupid a name)
+Dragon knight (dragon knight is impossible since only nagas have armor)
+wyrmlord (greater mummy)
+shadow dragon
+Winged Dragon King
+mottled dragon
+mottled dragon (Mammal)
+serpent-seeker
+dragon-seeker
+hydra
+
+=GREEN THINGS=
+green death (hounds)
+Green Wolf (The Green Dragon)
+green golem
+green rat
+
+=SPIDERS=
+spider 
+giant spider
+giant spider (and a little giant bear)
+Golem Spider
+Dungeon Spider
+spider zombie
+spider queen
+The black spider queen
+zombie warrior, giant spider
+spider monkey
+mouser spider
+hatching spider
+swamp spider
+undead spider
+frostbite spider
+wolf spider
+wolf spider zombie
+spiderling
+large spiderling
+trapdoor spider (shapeshifter) 
+giant spider
+giant spider queen
+tarantula
+giant tarantula (shapeshifter)
+giant salamander (Spider)
+iguana (spider)
+marmoset (spider)
+monkey (Spider)
+
+yak
+death yak
+yaktaur (shapeshifter)
+yaktaur warrior 
+yaktaur captain
+yaktaur captain (as Hell hog)
+yaktaur skeleton 
+
+human
+human or human-esque monster
+human monk
+human hunter
+human spy
+human guard
+human archer
+human thief
+humans (a bunch of us from my previous playthrough )
+humans (a few from our second playthrough)
+gnomes (the guys who were doing us in before)
+gnomes (mostly gnomish kids)
+monstrous human, who has resistances to both fire and earth and can breathe lightning once per turn
+human zombie (adult)
+human shaman
+beast human
+demon human
+
+Dwarf
+deep dwarf
+moth (Dwarf)
+dwarff warrior (old version)
+dwarf giant
+
+=THE ELEMENTS=
+earth elementalist
+earth
+Earth Spirit Warrior
+Earth Spirit Wizard
+fire monster
+fire snake
+fire hydra
+fire giant
+fire dragon
+fire-seeker
+Fire Elemental
+Fire Elemental (Lich King's Warchief)
+flame-cannibal
+flame monster
+flame-seeker
+Flame Elemental
+burning snake
+fire-cannibal
+fire-demon
+fire-fiend
+Fire Shaman
+fire wizard 
+fire maiden
+fire queen
+flame troll
+fire giant skeleton
+frost giant 
+smoke monster
+wind-fiend
+thunder monster
+frost worm
+frost gargoyle
+frost elementalist
+Frost Giant
+Frost Mage
+snow monster
+Snow Elemental
+Snowman
+ice statue
+ice monster
+ice wolves
+ice queen
+ice king
+ice god
+gelid demonspawn
+thunder monster
+queen of thunder
+thunder god
+shock elementalist
+lightning monster
+lightning demon
+wind-cannibal
+ice wizard 
+ice sorcerer 
+ice bard 
+Elementalist
+Elemental Elementalist
+elemental chaos spawn
+elemental demon lord
+Elementalist's Champion
+Elementalist's Companion
+Elementalist's Ward
+Elemental Destruction 
+Elementalism
+Elemental equilibrium
+
+=BEARS=
+bear
+black bear
+mountain bear
+white bear
+polar bear
+polar bear (or cheetah?)
+ancient bear
+evil bear
+bear with large trunk
+bear with huge trunk
+bear with huge nose
+bear / wild boar
+panda
+panda (Hyla)
+panda (Ursus rufus)
+
+=COWS=
+cow
+cow calf
+cow / hen
+mad cow
+Bull
+bull calf
+bullock
+bull / wild boar
+bull / boar
+bull / swine / bull or bear
+bull / pig / pig
+Giant Ox
+
+=DOGS=
+dog
+pug
+rottweiler
+feral dog
+dog (like a bulldog)
+blink dog
+black dog
+dog / swine
+hound
+hound skeleton
+==WOLVES==
+wolf
+wolfpack
+wolfskin soldier
+werewolf
+werewolf (can be found as an enemy in the cave)
+wizard werewolf
+frostwolf queen (2nd level cleric)
+fox
+small fox
+coyote
+jackal
+hound of nurgle
+warg
+giant warg
+warg (horror/gargoyle) 
+warg as fire wight
+
+=FELINES=
+cat
+house cat
+bobcat
+Panther
+panther (or mantis?)
+red panther
+tiger
+crypt tiger
+giant tiger
+sabertooth tiger
+bear / tiger
+lion
+green lion
+leopard
+puma
+cougar
+mountain lion
+lynx
+bobcat
+jaguar
+jaguar cub
+jaguar cub of the sea
+jaguar mimic
+elephant cat
+nekodo
+
+=MAMMALS=
+mammals
+mouse fighter 
+desert mouse
+desert rat
+swamp rat
+raccoon
+skunk
+moose
+horse
+horse (female chimp, not gorilla)
+horse / donkey
+donkey / swine
+rabbit
+rabbit mimic
+deer
+buck
+elk
+bison
+buffalo
+horse
+squirrel
+dire marmot
+marauding zebra
+mongoose
+mink
+beaver
+pig
+white-fronted pig
+pig / duck
+swine
+false hare, a type of pig (like an ostrich)
+hog
+hog or pig
+wild hog
+war hog
+boar/ cow / goose
+giant anteater
+sheep
+sheep / dog
+goat
+giraffe
+hippopotamus
+hippopotamus and hyena
+rhino
+echidna
+==PRIMATES==
+monkey
+giant lemur
+marmoset (the male ape)
+yellow monkey with big teeth and an ugly face
+Sumatran gibbon
+chimpanzee (the male chimpanzee, not the male male human)
+giant chimpanzee
+hunch-monkey
+gorilla
+bear ape
+ape beast
+ape god
+==SLOTHS==
+large sloth
+giant sloth
+giant land sloth
+==ELEPHANTS==
+elephant
+small elephant
+elephant cub
+dire elephant 
+Giant Elephant
+==AUSTRALIANS==
+kangaroo
+Giant kangaroo (Kangaroo geographus leucogaster)
+kangaroos and giant anteaters
+eldritch kangoroth
+the Tasmanian Devil, which is often mistakenly mistaken for a kangaroo. It is not.
+
+=REPTILES=
+reptile
+crocodile
+lizards and turtles
+yellow jacket lizard(or any other reptile for that matter)
+
+=SNAKES=
+snake
+snake, grasping staff
+snake-cannibal
+antsnake  
+viper
+viper queen
+viper hunter
+viper with claw
+green serpent
+asp
+cobra
+serpent
+shock serpent
+large serpent
+sea snake 
+sea snake (shapeshifter)
+boomerang snake (Lantadyogma bryantii)
+dragon snake (Lantadyogma bryantii)
+white mamba
+black mamba skeleton
+
+=INSECTS=
+beetle
+giant beetle
+centaur beetle
+giant cockroach
+giant cockroach queen
+creature that would look exactly like a human with a large cockroach wing
+The giant cockroach king (pictured in my photo)
+scorpion
+large, hairy scorpion
+giant scorpion
+blue scorpion
+sand scorpion
+scorpion guy
+large louse
+large hairy louse
+large moth
+ghost moth
+ghost moth w/ ghost dragon tail
+moth of wrath 
+ghost moth simulacrum
+giant sand flea
+centipede
+sand mantis
+giant mantis or jaguar
+king mantis
+==BEES!==
+killer bee
+killer bee with its face burnt off
+killer bee with its eyes blown out of its skull
+killer bee dressed as a witch
+killer bee with a head sticking out and two wings attached
+killer bee with a head sticking out and two wings attached
+killer bee that doesn't have any wings, like the killer bee with wings attached
+killer bee with wings in its abdomen
+killer bee that flies without wings
+killer bee where its wings are hanging off of its body
+killer bee that grows wings out and then doesn't grow more wings
+killer bee flying
+killer bee in a suit of armor which flies off and kills whoever tries to catch it
+hornet
+large hornet
+red dragonfly
+scarab
+Scarab Queen
+red wasp zombie
+giant earth mite
+
+==WORMS, SLUGS, SNAILS==
+ravenous worm
+earth worm
+giant earthworm
+fire worm
+giant sand leech
+killer leech
+burning giant wiggler
+giant slither
+large slug
+giant slug
+giant starcursed mass (5 total)
+spiny worm
+spiny worm zombie 
+war snail (Rafinacornis)
+maggot
+
+=TROLLS=
+Troll
+dark troll
+dark troll shaman
+dark troll warlord
+deep troll 
+undead troll
+troll biker
+troll druid
+troll shaman (tank)
+fire troll
+fire troll's fire
+iron troll
+rock troll zombie
+
+=PLANTS=
+man trap
+oklob plant
+ooklob plant
+japanese star
+pink and purple cedar tree
+brown and green bamboo
+pincushion
+flamethrower
+cactus
+
+=CREATURES OF THE SEA=
+fish
+giant fish
+catfish
+==SHARKS==
+Shark
+giant shark
+White Shark
+Great White
+great white shark
+Shark Hunter
+manatee shark
+peter shark
+black shark
+sand shark
+sand muck shark
+tiger shark
+bull shark
+whale shark
+Tasmanian Devil shark
+the king shark of Tasmania is also a fish but this one isn't as popular!
+carapace shark
+==WHALES==
+Red Whale
+blue whale
+Killer Whale
+Whale Hunter
+==TUNA==
+Tuna
+Giant Tuna
+yellowfin tuna
+==SQUID==
+squid
+Giant Squid
+dolphin's eye squid
+==OCTOPUS==
+octopus
+giant octopus
+giant clawed octopus
+octopode
+==SHRIMP==
+shrimp (also known as shark) 
+sand shrimp
+blackjack shrimp
+jack shrimp
+mackerel
+krill
+catfish
+mackerel
+mahi mahi
+yellowtail
+clams
+sea urchins
+salmon
+trout
+fish skirmisher
+fish cavalry
+fish war-lord
+sea sponge
+water sponge
+manta ray
+manatee
+sand manatee
+scorpion manatee
+walrus
+Sea Monster
+water monster
+Kraken
+jellyfish
+giant jellyfish
+==DOLPHINS==
+dolphin
+dolphin war-lord
+dolphin sea-captain
+dolphin commander
+dolphin rider
+marlin
+puffer fish
+sea urchin
+mollusc
+coral
+starfish
+king squid
+ocean lamprey
+green sea otter
+king fish
+giant cephalopods
+Lightning whelk
+voracious piranha (dressed up)
+native warrior of the water, which has a resistance to both water and electricity and can breathe and swim at the same time
+pufferfish
+marlin
+sea serpent
+Diplomatic Seal
+==SEA SNAKES==
+sea snake ghost
+sea snake rider
+sea snake queen
+sea snake queen of the deep
+==CRUSTACEANS==
+lobster
+spiny lobster
+lobster on fire
+king crab
+king king crab
+ghost crab
+frost crab
+black sky crab
+==MERFOLK==
+mermaid
+blue mermaid
+mermaid (dressed up)
+unicorn (dressed up)
+mermaid zombie
+spectral merfolk
+merfolk zombie
+merfolk zombie (female)
+merfolk wizard 
+merman soldier
+Astrid the merfolk
+Astrid merfolk (shapeshifter type)
+==TURTLES==
+turtle
+large snapping turtle
+giant snapping turtle
+==SEA LIONS==
+sea lion
+sea lion (Didelphis niger)
+
+=DINOSAURS=
+allosaurus
+elasmotherium
+megalodon
+plesiosaur
+brontosaurus
+apatosaurus
+velociraptor
+pteranodon
+sabertooth mammoth
+hyrax
+hyloxodon
+ichthyosaur (taurid)
+ichthyosaur (avialanid)
+ichthyosaur (teracopterygid)
+ichthyosaur (zartakodon)
+ichthyosaur (zartakodon viviporidae)
+ichthyosaur (viviporidae)
+ichthyosaur (favoriaerisaur)
+ichthyosaur (fermenticeratops carcharodon)
+ichthyosaur (vertebrae ramulus)
+hymanodon
+homoornithosaurus
+maniraptoran
+mastodon
+hylicosaurus and hylomorphs
+leucobatid
+Hylaeosaurs that can eat plants
+Hylaeosaurs that feed on insects
+Hylaeosaurs capable of eating humans only
+Hylaeosaurs that walk on two legs
+tyrannosaurian
+brachiosaurus
+rufousaur
+procompsognathus
+
+=NAGA=
+naga
+naga warrior
+naga knight
+naga sharpshooter
+naga magi 
+naga ritualist
+naga zombie
+vipers, naga
+naga queen (the only naga queen I know)
+Buster! vs naga queen
+Beast rider (Beast Rider is impossible since nagas have no body)
+Wolf rider (Wolf Rider is impossible since wolves have no eyes)
+naga master (Only nagas are allowed to train/level up)
+naga beastman (Only nagas can train/level up)
+medusa
+Gorgon
+
+=GIANTS=
+Giant
+hill giant
+hill giant zombie
+ice giant
+ice giant zombie
+frost giant
+frost giant simulacrum
+fire giant
+fire giant (shapeshifter)
+fire giant, ghost moth (shapeshifter)
+fire giant simulacrum
+giant fire giant (sans the fire)
+giant fire giant (sans the earth)
+flame giant
+giant air giant (sans the air)
+shadow giant, named after the city of shadow where the fire giant once lived
+stone giant
+stone giants in the ocean (in the northern hemisphere)
+giant stone giant
+water giant
+giant water giant (sans the water)
+wind giant
+small sea giants (sea monster)
+giant robot
+ettin simulacrum
+thunder giants or dragon giants
+
+=BIRDS=
+bird
+wren
+raven
+raven, ravenous mantis (1st edition)
+yellow crane
+bald eagle
+grey eagle
+duck, duckling
+cockatoo
+chicken
+rooster
+hen
+duck
+duckling
+goose
+goose / bird
+pigeon / rabbit
+crow
+vulture
+dragon vulture
+tawny owl (Leucodon)
+queen penguin
+kite with wings
+bird of prey
+bird with yellow beak
+reptiles of birds
+starling
+red-spotted starling (1st edition) 
+pheasant
+raptor (2nd edition) 
+hawksbill falcon
+ravener hawk
+owl (2nd edition)
+black owl
+swallow (1st edition)
+sparrow (2nd edition)
+The bird-breathing birds of prey
+golden-winged  (1st edition)
+golden-winged  (2nd edition)
+
+=JOBS FOR PEOPLE=
+ranger
+paladin
+assassin
+Monk
+Dark Warrior 
+Necromancer
+summoner (warlock)
+druid
+druid monk
+druid cleric
+chaotic rogue
+bard
+wicked bard
+evil bard
+bazaar guard 
+twisted barkeeper
+dragon-hunter
+shaman
+shaman druid
+mutant
+arcane defender
+Viking
+==WIZARDS==
+Wizard
+wizard (monk) (monk)
+arcane wizard
+arcane wizard's apprentice
+arcane wizard of the sun
+arcane wizard's apprentice
+Eldritch Wizard
+dark wizard
+evil wizard
+undead wizard
+invisible wizard
+wizard-killer
+white mage
+dark cleric
+voodoo priest
+arcane voodoo
+undead rogue
+magical rogue (sorceress)
+undead sorceress
+witch
+powerful witch
+arcane witch
+arcane witch's apprentice 
+warlock
+iron warlock
+dark necromancer
+evil archon
+Pirate
+pirate ship
+undead pirate, who has a great chance for life drain on a critical hit, and can even steal
+sea-captain
+sea-warlord
+sea-captain skirmish captain
+sea-lord cavalry commander
+sea-warlord skirmish commander
+sea-shooter
+naval officer
+naval officer skirmish sergeant
+navy commander
+navy commander sailor's squad
+merchant captain
+merchant master
+merchant merchant sailor's squad (note: The pirate may not spawn on any other ship.)
+Eldritch Warchief
+musketeer
+Ironforge Rifleman 
+Highguard
+Black Knight
+Wicked Witch
+Deathlord 
+Chaos Lord 
+marauder king
+bloodthirster (and some others)
+jacob (he is the leader of this group, the leader of the bard).
+bitter viking
+pancake warrior
+pancakes fighter & vikings
+Warriors
+all types of warrior (new ones)
+Japanese warrior
+japanese warriors and vikings
+british warrior
+zeta warrior 
+saints and warriors
+maze master
+Dungeon Master
+swamp witch
+bog hermit
+warrior king
+jade maiden
+the deadwood
+dark knight / sorcerer / spellshaper (no class-based spells)
+man in black
+man in blue
+man with two eyes
+
+=GOLEMS=
+metal golem
+metallic golem
+iron golem
+black iron golem
+steel golem
+silver golem
+stone golem
+green stone golem
+flesh golem
+flesh golem (reincarnated through food)
+earth golem
+water golem
+black golem
+red golem
+white golem
+yellow golem
+
+=HARPIES=
+harpy
+harpy skeleton
+harpy lord
+harpy (Hell hog)
+
+=SPIRITS=
+nymph
+water nymph
+oread
+nereid 
+
+=CYCLOPS=
+cyclops
+cyclops rabbit
+cyclops skeleton
+Cyclops, The Destroyer
+cyclope 
+
+=CENTAURS=
+centaur
+centaur (shapeshifter)
+
+=FOREST BEINGS=
+spriggan
+spriggan knight
+spriggan druid
+spriggan captain
+guardian of the forest
+queen of the forest
+an ancient demon from the forest that fights with all his might
+
+=STORM*=
+stormcaller
+stormspirit
+
+=FROGS=
+poisonous frog
+giant frog
+giant frog skeleton
+spiny frog
+giant toad (spider)
+
+=MONSTERS=
+monster with a head
+monster with an eye
+monster with wings
+monster with an eye, an eye boss
+monster lord
+monster master
+Beastmaster
+beast lord
+
+=CLASSICAL MONSTERS=
+Minotaur
+manticore
+manticore (Spider)
+griffon
+giant eyeball
+unseen horror
+Festering Horror
+displacer beast
+rust monster
+random villain, monster to fight
+phoenix
+gargoyle
+gargoyle warrior with horns of ice and fire and a fire elemental's flame resistance bonus
+giant red monster, which has fire and earth resistances
+gurgling mouther
+unicorn
+
+=TENGU=
+tengu
+tengu warrior
+tengu monk
+tengu skeleton
+tengu reaver
+
+=AVATARS OF WAR=
+valkyrie
+goddesses of war
+warpriest
+war mage
+warbeast
+war gargoyle
+
+=AVATARS OF CHAOS=
+Chaos Lord
+chaos mage
+chaos spawn
+chaos monster
+warlord of chaos
+
+=AVATARS OF DEATH=
+death knight
+Deathlord
+demigod w/ death
+titan w/ death
+dead priest
+death knight
+
+=HINDU=
+rakshasa
+rakshasa lord 
+rakshasa (lord of shadows)
+
+=GENII=
+genie
+genie - Genie is the only monster to NOT have a home (not to be confused with the Genie or Demon)
+ancient efreet
+
+=DANCING WEAPONS=
+hiragana katanas
+gordian lance
+big ole' lance
+shadow falx
+
+=SWAMP CREATURES=
+swamp water frog
+swamp snake
+swamp monster
+swamp creature
+swamp creature (noise)
+swamp urchin
+swamp urchin (noise)
+swamp hound
+swamp hound (noise)
+swamp killer
+
+=DESERT, SAND=
+sand eel
+
+=GUARDIANS=
+guard with halberd or mace of protection
+guardian shaman
+guardian goddess
+eagle-headed man, holding a hammer
+eagle-headed man, holding falchion
+guard with shield
+skeleton guard
+skeleton guard with dagger
+skeleton guard with axe
+skeleton guard with shield
+skeleton guard with sword
+skeleton guard with halberd
+skeleton guard with bow
+skeleton guard with arrows
+skeletal guard
+skeletal guard with sword
+dark guardian (druid)
+
+=HOLY=
+archon
+angel
+titan
+magus of knowledge
+==PRIESTS==
+priest of love
+priest of the peace-bringing sun
+priest of the holy holy light
+priest of the peace-bringing star
+priest of the water
+priest of the rain
+==CLERICS==
+holy cleric
+==DRUIDS==
+druid of the storm
+holy druid
+==PALADINS==
+paladin of protection
+paladin of peace
+paladin of the cold
+paladin of the moon
+paladin of wisdom
+paladin of the peace-bringing sun
+paladin of the earth
+paladin of the fire
+paladin of the fire (magus)
+paladin of the rain
+paladin of the storm
+paladin of death
+
+ Ebon Vanguard
+ black knight
+Dark Arid
+a few more
+soul eater
+body eater
+sky beast
+tessera
+the dead man with no sword (or hand)
+manga: japanese sci fi
+Pancakes
+blacksmith's forge
+shams
+alluring goddess
+jahishan
+the angel who turned him into a tree
+

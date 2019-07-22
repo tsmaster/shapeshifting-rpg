@@ -1,0 +1,212 @@
+=BLUNT WEAPONS=
+mace
+ancient iron mace
+silver mace
+giant mace
+great mace
+huge golden crystal mace
+diamond mace
+mace of the nightlords
+mace of the forest master
+mace of the fire wizard
+mace of the fire spirit
+club
+club (2 sizes)
+great club
+vorpal club
+warclub
+spiked club
+club of digging
+club of throwing
+club of freezing cold
+wand
+staff
+staff of the forest master
+staff of the forest master, as an ally
+staff of a bard
+staff of the staff monk
+staff of fire
+staff of the fire wizard
+warden's staff, as a single weapon
+diamond staff
+stick
+blackjack
+maul
+mauler
+a broken wooden spoon for cooking
+a small rock
+4 giant rocks that rotate so fast at high speeds that only one person can have any interaction with them at once
+5 huge stone plates that can be thrown with great power from as far as 20m
+The same stone plates that were thrown in the previous dungeon can also be taken by players for the same attack, in the same style as before
+5 stone plates that can be tossed by the giant with great force! They will make great cannon fodder
+==HAMMERS==
+hammer
+bowling Hammer
+flaming hammer
+war hammer
+great hammer
+the hammer
+
+=AXES=
+axe
+military hand axe
+hatchet
+axe (with pommel)
+iron axe
+steel axe
+silver axe
+ivory axe
+battle axe
+war axe
+huge ruby war axe
+axe of the lord of the night
+military pickaxe
+diamond pickaxe
+military axe
+military axe 1st person 
+chain axe
+great axe
+great axe made of stone
+the monster's big axe 
+axe (or kobold's scimitar)
+
+=KNIVES=
+knife
+a big stone for a knife
+war knife
+dagger-handle knife
+Kukri
+kunai
+kris
+knife (with pommel)
+
+=DAGGERS=
+dagger
+rusty dagger
+stiletto
+concealed dagger
+flaming dagger
+bronze dagger
+iron dagger
+steel dagger
+cold steel dagger
+obsidian dagger
+silver dagger
+mithril dagger
+platinum dagger
+crystal dagger
+diamond dagger
+dagger with two 1h pierce and one 1h critical attacks
+spiked dagger of digging
+the chieftan's daughter's prized dagger
+
+=SWORDS=
+sword
+sword (or two)
+flaming sword
+flaming sword, with a cross over the hilt
+sword of the sun god
+sword of the great night lord
+sword of the dread god of the midnight
+sword with iron scabbards 
+a sword with a red silk sash or a gold sash
+Short Sword
+longsword
+long sword axe
+longsword blade
+longsword of the sky gods
+long sword of the great night lords
+long sword of the dead king
+broadsword
+claymore
+cutlass
+wood sword
+chain sword
+chainsword of the sun lords
+3-handed sword
+goodsword
+jagged sword
+obsidian sword
+sword of killing
+sword of slaying
+large silver sword
+sword with 20% chance of burning with one 1h pierce and one 1h critical attack
+a jeweled sword
+two huge swords (in a giant skull like shape designed to resemble blades from a giant skeleton, like with the pike from the previous game)
+scimitar
+dark elven scimitar
+diamond scimitar
+machete
+falchion
+golden falchion
+katana
+katana (with spikes)
+rapier
+rapier of the morn lord
+blade of the sky god
+a magical blade made entirely of obsidian
+
+=POLEARMS=
+Polearm
+spear
+old iron spear
+spearmace
+speargun
+flaming spear
+purple unicorn spear
+magic spear
+giant spear
+big dragon spear
+javelin
+lance
+halberd
+pike
+obsidian-tipped pike (requires a level one archery skill in order to fire)
+bec de corbin
+spetum
+earpick
+war pick
+a wooden pick with a sharp tip
+lucerne hammer
+scythe
+
+=BOWS=
+bow
+bow (large)
+shortbow
+cold steel short bow
+longbow
+heavy bow
+crossbow
+small, crude crossbow 
+light crossbow of the sun lord
+crossbow of the sun lord
+a huge crossbow with many different attachments that has a very short range of use (only one point of contact per shot)
+bowstring (with a large string)
+
+==RANGED AMMUNITION==
+arrow
+cold steel arrow
+poisoned dart
+
+sling
+slingshot
+sling for bows
+atlatl
+atlatl claw
+atlatl sword
+
+=WHIPS=
+whip
+chain whip
+chain whip of the sky
+a huge spiked whip designed by him, called an ice katana
+flail
+flail of digging
+
+throwing net
+
+some sort of weapon with an open handle that was always there
+weapon of strength
+
+

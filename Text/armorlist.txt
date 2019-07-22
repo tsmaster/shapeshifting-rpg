@@ -1,0 +1,309 @@
+belt
+leather belt
+glowing red dragonhide belt
+leather belt worn on the right shoulder
+small belt, or a leather belt (a nice belt that I have now)
+a short leather belt
+a larger belt
+additional short belt (these can only be had by a human)
+an additional leather belt with red dragonskin around it. This belt has very little gold on it.
+leather belt in leather pouch with an animal rune on it
+leather belt on back (I would recommend anything with belt loops, it's best to wear no more and no less than 2 in total)
+belt of dwarven armor
+belt of elven ingenuity
+a gold chain
+a shield belt (this one has 2 silver shields and two bronze stars on it, and it also has another shield belt on it and a sword in the middle of it, which is probably not one you want to have.)
+
+=SHIELDS=
+shield
+metal shield
+Iron shield
+a silver shield
+another silver shield
+2 silver shields
+shield of light
+shield of speed
+Celtic Shield
+a shield that is a bit lighter for carrying but not too heavy, it's possible to wield it with two hands
+some sort of shield
+spiked shield
+a large shield worn on the left shoulder
+small shield or a nice leather shield
+yellow dragonshield of the sun
+bronze shield of clarity
+bronze shield of defense
+bronze shield of protection
+bronze shield of regeneration
+bronze shield of speed
+bronze shield of strength
+bronze shield of the sun
+bronze shield of the sunshine
+copper shield of the sun
+iron shield of power
+iron shield of the sun
+silver shield of the sun
+silver shield of clarity
+silver dragonshield of the sun
+silver dragonshield of the sun, smaller version
+steel shield of the sun
+very thick wooden shield/leg. I use this in the dungeon on a long trek to the exit of the dungeon and need to find a weapon (or a small shield, or something like that) that can do enough damage to kill many a boss monster!
+buckler
+a pair of leather bucklers
+
+=CLOTHING=
+a set of red trousers
+a set of white trousers
+trousers for climbing
+robe
+crimson dragonskin robe
+dark blue dragonskin robe
+purple dragonskin robe
+a robe of great beauty covered with golden scales
+jacket - leather
+a cloth cape that covers her entire body and hands as well as her chest
+cloak
+cloak (in white)
+cloak (just to protect the head)
+glowing red dragonhide skirt
+purple dragonskin skirt
+shimmering red dragonhide cape
+hair or cloth that can be dyed with an ink on its surface
+a silk tunic of great beauty which covers her entire body and neck
+an amber mask for each of her eyes
+
+=HEADWEAR=
+hat
+sun hat
+war hat
+magician's hat
+skull mask
+crimson dragonskin cap
+dark blue dragonhide cap
+golden dragonhide cap
+a very simple white leather hood with two holes on each side
+a hood that covers her head
+helmet
+a helmet with some spikes on it
+Iron helmet
+giant steel helmet
+golden dragonhide helmet
+shimmering red dragonhide helmet
+helm
+iron-plated helm
+steel-plated helm
+gold dragon skull armor
+miter
+imperial crown
+
+=HANDWEAR=
+gloves
+leather gloves
+a set of white gloves
+a set of yellow gloves
+a pair of dark yellow dragonskin gloves with no wings
+chain gloves
+ring mail gloves (3 or more)
+gauntlets
+red leather gauntlets
+yellow leather gauntlets
+wood gauntlets
+gauntlets with wooden plates
+gauntlets with iron plates
+chain gauntlets
+chain gauntlets with glass plating
+metal gauntlets
+
+=FOOTWEAR=
+leather shoes
+studded leather shoes
+shoes with 2 pairs of shoes with 2 pairs of small boots
+sandals
+boots
+leather boots
+red leather boots
+yellow leather boots
+studded leather boots
+leather-plated, leather boots
+wood boots
+boots on my back
+glowing red dragonhide boots
+glowing, blue dragonhide boots
+golden, golden, gold dragonhide boots
+glowing dragonhide boots with golden boots
+leather boots which you can wear at home. I don't want it to be too dirty, so you have to keep them clean
+golden boots which were supposed to be an item of clothing
+golden golden boots
+golden Dragonfly boots
+golden dragonfly boots which are supposed to be a necklace
+magic boots which give you some extra protection
+
+=ARMOR SUITS=
+==MISC==
+cloth-lined armor
+wood-lined armor
+wood-plated armor
+wood-plated armor with cloth covering (similar to the way the wood is used in the iron and steel armor)
+iron-plated armor
+gray and steel armor
+dark gray armor
+black steel armor
+gray, black, and silver armor
+silver studded armor 
+gold and bronze armor
+diamond armor
+Caster armor
+Sorceress armor
+Briarheart armor
+Dwarven armor
+==LEATHER==
+leather armor
+leather armor with leather covering on it (same as other leather armor)
+leather armor with fur covering (same armor shown here.)
+leather armor with fur covering. Note that the fur is also painted.
+red leather armor 
+yellow leather armor
+red dragonhide leather armor
+leather armor that covers her entire body and head
+==CHAIN==
+chainmail
+heavy chain mail
+short, wide chainmail
+wood-plated chainmail
+bronze chain mail
+2 gold chainmail plates each holding 5 weapons each
+iron-plated chain mail (same as the one here)
+==RING==
+ring mail set
+lacquered ring mail
+lacquered metal ring mail
+iron ring mail
+iron and steel ring mail
+black, silver, and bronze ring mail
+red studded ring mail
+silver studded ring mail
+gold studded ring mail
+gold and silver ring mail
+ring mail armour of resistance (dwarf)
+ring mail armour of dexterity
+ring mail armour of protection
+ring mail armour of protection of intelligence
+ring mail armour of regeneration
+ring mail armour of the protection of the king
+==SCALE==
+scale mail
+leather scale armor
+metal scale mail
+silver scale
+golden scale mail
+golden dragon scale
+big red dragon scale
+gold dragon's scale
+massive golden dragon scale
+huge gold dragon scale
+huge golden dragon scale
+frost dragon scale
+massive white dragon scale
+==PLATE==
+wooden plate
+Dwarven plate armor
+Iron plate armor
+Iron dragonplate
+steel plate
+Steel plate armor
+crystal plate mail
+bronze dragonplate armor
+gold plate
+gold dragonplate armor
+gold dragonplate armor sets
+Bronze dragonplate Armor
+gold dragonplate Armor Set
+
+=PIECES=
+bright blue dragonhide breastplate
+golden dragonhide thigh armor
+leather cuirass
+pauldrons
+bracer
+iron plate arms
+pair of greaves
+red leather leggings
+yellow leather leggings
+red leather pant legs
+yellow leather pant legs
+armored leg
+silver dragonhide leg armor
+huge silver dragon platelegs
+large golden dragonplate platelegs
+big giant golden dragonplate leglegs
+
+
+
+dwarven armor
+
+dwarven helm
+
+dwarven shield
+
+dwarven cape
+
+dwarven headdress
+
+dwarven ring mail
+
+dwarven cloak
+
+dwarven cloak of night
+
+dwarven cape
+
+dwarven headdress
+
+dwarven ring mail
+
+dragonhide armor, +1
+
+dwarvish platebody and helmet, +4
+
+dwarven platebody and helmet, +1
+
+dwarven plate, leather mail +3
+
+dwarven plate, leather mail +3
+
+dwarven plate, leather mail, +1
+
+dwarven helmet, leather mail +1
+
+dwarven helmet, leather base armor
+
+dwarven helmet, leather base armor, +1
+
+dwarven headband, leather base armor
+
+dwarven neck and lower body armor, leather base armor
+
+
+wurmstomping cloak
+
+wurmstomping helmet
+
+wurmstomping platebody
+
+wurmstomping chestplate
+
+wurmstomping plateleg
+
+wurmstomping leg
+
+wurmstomping legs
+
+
+jacket/coat / jacket + back
+
+pants - if the jacket is already in your backpack
+
+socks
+
+sweater - if you're in a suit (the one not showing any visible sign of your outfit)
+
+

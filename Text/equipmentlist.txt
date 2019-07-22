@@ -1,0 +1,130 @@
+food
+food box
+bottle of honey
+honeycomb
+pinch of sugar
+fishing pole
+fishing rod
+fishing net
+fishing lure
+fishing kit
+pancake
+water jug
+strawberry cup
+pot of soup
+
+==LIGHT==
+candle
+wax candle
+torch
+lamp
+lantern
+flask of oil
+pot of oil
+jug of oil
+
+==HORSE EQUIPMENT==
+saddle
+barding
+cart
+wagon
+horse
+ladyhorse
+mule
+pony
+
+==CAMPING GEAR==
+rope
+wool rope
+pole
+tarp
+tent
+blanket
+tough wool blanket
+sheet
+
+bag of playing cards
+whetstone
+
+goggles
+
+lily pad key
+skeleton key
+dungeon key
+
+==BOOKS, MAPS==
+spellbook
+book of knowledge
+whetstone tome
+travel log
+fantasy map
+treasure map
+magical map
+wizard's map
+
+==TRAPS==
+bunker traps
+shelter trap
+dragon's blood trap
+dragon's breath trap
+dragon's shock trap
+dragon's fire trap
+dragon's flame trap
+dragon's frost trap
+dragon's water trap
+dragon's ice trap
+golden dragon's fire trap
+golden dragon's water trap
+
+==CONTAINERS==
+backpack
+water bottle
+flask
+pouch
+basket
+sack
+bag
+small wooden box
+wooden box
+
+==TOOLS==
+hammer
+small steel hammer
+pliers
+small axe
+wooden axe
+trowel
+spade
+wooden shovel
+shovel of soil
+wooden pickaxe
+maul of earth
+maul of stone
+sickle
+tapestry needle
+thread
+scissors (useful as a backup if you don't have one lying around)
+small paintbrush
+paint
+dye
+anvil
+cauldron
+dungeoneering tools
+thief's tools
+carpentry tools
+fey skinning tool
+tools of transmutation
+
+==MUSICAL INSTRUMENTS==
+gong
+drum
+piano
+flute
+fiddle
+banjo
+guitar
+stringed guitar
+trumpet
+mandolin
+viola
+

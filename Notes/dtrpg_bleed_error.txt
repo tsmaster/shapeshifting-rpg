@@ -1,0 +1,2 @@
+
+Correct bleed is .125" width on the outside page edge and .125" on both the top and bottom page edges. 
