@@ -1,32 +1,137 @@
-
-troll skull necklace
-
+==ANIMALS==
 kangaroo head
-
-robot eye
-robot suit
-
-brick of glass
-
+troll skull necklace
 Small Bronze Dragon
-
-wad of coins
-
-loot of gold
-
-bag of gold
-
-wood block
-
 dragon scales
 scorpion tail
-silver
 kraken's teeth
-souvenir glassware
-gems
-treasure chest
-gold ring
-ruby ring
-
+dragon's egg
+black dragon's scales
+golden dragon's scale
+red dragon's skin
+emerald dragon's hide
+black dragon's wings
+black dragon's bone
+gold dragon's scales
+red dragon's scales
+silver dragon's body
 the dragon's fire
+silver dragon's body
+blue dragon's body
+gold dragon's claw
+emerald dragon's claw
+emerald blue dragon's claw
+ruby blood dragon's claw
+silver dragon's claw
+fire crystal dragon's claw
+a black and blue colored dragon skull that is made from a crystal
+dragon eggs
+dragon statue
+Small Blue Dragon
+Large Iron Dragon
+dragon scales
+scorpion tail
+
+==MATERIALS==
+wood block
+stone
+water stone
+ores
+brick of glass
+gems
+8 gemstones (find on the stairs to the right, inside the chest with no gemstones)
+a gem of your choice (found in chests in Netha and Karamja)
+diamonds
+diamond bars
+emeralds
+emerald (found in chest in Lost Izalith)
+onyx crystal
+pearls
+pearls (inside the chest and outside the chest)
+rubies
+sapphires
+aetherythe
+bronze
+bronze bars
+iron
+iron bars
+silver
+silver bars
+gold
+gold nuggets
+gold ingots
+gold bars
+gold treasure
+platinum
+an ingot from The Black Pyramid!
+
+==COINS==
+silver coins
+wad of coins
+loot of gold
+bag of gold
+bundle of gold
+gold coins
+gold coin (for the last boss)
+plutarch's coins
+plutarch's pieces
+
+==JEWELRY==
+ring of the sun god
+huge silver dragon skull ring
+wood ring
+rock ring
+brick ring
+iron ring
+hard iron ring
+cotton ring
+water (raindrop) ring
+small ring of earth
+earth (raindrop) ring
+dirt ring
+cotton (raindrop) ring
+fire-moulded (raindrop) ring
+pendant
+earring of a dead lizard-person
+diamond ring
+diamond ring (with 5 pieces of emerald)
+diamond amulet
+diamond chains
+diamond necklace
+diamond crown
+emerald ring
+ruby ring
+silver ring
+silver necklace
+gold ring
+a golden necklace
+
+==CONTAINERS==
+treasure chest
+a chest full of gold and rings
+a chest full of gold and stones!
+gold treasure chest
+
+==CARDS==
+red card
+yellow card
+green card
+black card
+white card
+gold card
+
+==GEAR==
 cursed rod
+redstone torch
+
+==TRINKETS==
+souvenir glassware
+blood thorn
+tribunal orb
+potion
+fireweed
+an item that requires you to destroy a tree with a hammer. But it's rare.
+gold key
+silver key
+a large "diamond-cutter" that you have to steal.
+sceptre

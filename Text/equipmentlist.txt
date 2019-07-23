@@ -82,6 +82,7 @@ water bottle
 flask
 pouch
 basket
+small leather pouch
 sack
 bag
 small wooden box
@@ -101,10 +102,14 @@ wooden pickaxe
 maul of earth
 maul of stone
 sickle
+wooden bucket
+scoop
+ladder
 tapestry needle
 thread
 scissors (useful as a backup if you don't have one lying around)
 small paintbrush
+paintbrush
 paint
 dye
 anvil

@@ -187,6 +187,8 @@ bowstring (with a large string)
 ==RANGED AMMUNITION==
 arrow
 cold steel arrow
+silver arrows
+goblin arrow/spike
 poisoned dart
 
 sling

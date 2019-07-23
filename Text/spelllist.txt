@@ -56,3 +56,5 @@ Spells 2nd - clear thoughts, fog cloud
 8th - Summon Hydra, summon demonspawn.
 9th - summoning tree
 Spells 3rd - summon monster XX
+
+healing prayer

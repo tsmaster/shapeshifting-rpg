@@ -101,6 +101,7 @@ leather gloves
 a set of white gloves
 a set of yellow gloves
 a pair of dark yellow dragonskin gloves with no wings
+silver gloves
 chain gloves
 ring mail gloves (3 or more)
 gauntlets
@@ -125,6 +126,7 @@ yellow leather boots
 studded leather boots
 leather-plated, leather boots
 wood boots
+silver boots
 boots on my back
 glowing red dragonhide boots
 glowing, blue dragonhide boots
@@ -143,12 +145,18 @@ cloth-lined armor
 wood-lined armor
 wood-plated armor
 wood-plated armor with cloth covering (similar to the way the wood is used in the iron and steel armor)
+copper armor set
 iron-plated armor
 gray and steel armor
 dark gray armor
 black steel armor
 gray, black, and silver armor
+dwarven armor set (with boots)
+armor of earth
+armor of stone
+Armor of iron
 silver studded armor 
+silver armor set
 gold and bronze armor
 diamond armor
 Caster armor
@@ -305,5 +313,5 @@ pants - if the jacket is already in your backpack
 socks
 
 sweater - if you're in a suit (the one not showing any visible sign of your outfit)
-
+dwarven arm band
 
