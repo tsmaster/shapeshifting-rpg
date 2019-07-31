@@ -89,6 +89,7 @@ swamp mre oom
 giant amoebae 
 tentacle
 ooze
+brain eating amoeba
 
 =UNDEAD=
 Undead
@@ -911,6 +912,7 @@ great white shark
 Shark Hunter
 manatee shark
 peter shark
+littoral shark
 black shark
 sand shark
 sand muck shark

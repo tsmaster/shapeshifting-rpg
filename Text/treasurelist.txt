@@ -111,6 +111,7 @@ treasure chest
 a chest full of gold and rings
 a chest full of gold and stones!
 gold treasure chest
+a sealed mithril box
 
 ==CARDS==
 red card
