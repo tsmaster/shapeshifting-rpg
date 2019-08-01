@@ -1,0 +1,316 @@
+=====
+Level 1
+=====
+
+===
+Room 1 - Entry Room
+===
+In the entry room, the party will see Mr. Jareth talking to the party. He says:
+
+"Well, I hope this is all very well. This is a test test, really. You would think you knew nothing. Now there's a dragon flying in my eyes. What are you going to do?"
+
+The party must save Mr. Jareth with fire magic. They do it and they meet a dragonfly. It tells them:
+
+"Ah, I know what your eyes are like. My eyes are like yours, and your wings have given me wings as well, so I see that it's an illusion." Its eyes tell the party that its face is hidden, but it still says:
+
+"But then, I guess you are a dragonborn, aren't you?"
+
+Mr. Jareth says:
+
+"Yes – I was born to an ancient elven king. And, for my part, I was the eldest son. Now I have come to visit her again. For this, I must show my strength and my strength have been very strong since I was young."
+
+The dragonfly says:
+
+"Oh, this reminds me of something. I've seen the legend of your mother a hundred times. If I remember correctly, your mother was a dragonborn as well. How come you're so short and slender?"
+
+
+===
+Room 2 - Grand Chamber
+===
+In the Grand Chamber, you discover that the emperor and the courtiers have been locked away in a dungeon of unimaginable powers.
+
+The Emperor enters.
+
+You look around.
+
+"Where? What? We're here on a throne room, we're locked up here."
+
+But the Emperor didn't say that. "We didn't set foot on the castle until today." "I was so excited about our adventures. I even set the castle up as your stronghold." "What kind of world is the emperor living in. Why did he not send you any warning that the entire city would be attacked?"
+
+You try to say, "We're doing our best. Even now, I've not lost the feeling of being in charge!"
+
+But the Emperor didn't say anything. "I can't leave. I'm staying in the palace. I've not left since I realized I could take on the entire continent."
+
+"Your life was taken because of that. I can't let that happen."
+
+The Emperor still doesn't say anything. He's silent...
+
+You continue to search for clues as to where to find them. You have your torch, your sword, and your map.
+
+"Is everything alright now?"
+
+"I think so. There's no time to worry. The castle is surrounded."
+
+
+===
+Room 3 - Antechamber
+===
+When the party enters the antechamber, where the rest of the party may be found, and where the guards will immediately be dispatched, this will allow you the benefit of making a full-round action to disarm or kill the creature, which means you can disarm the creature again as a free action in order to get something from it. It's almost the same method as using a sling for this.
+
+You can give the creature one extra Strength die and a few temporary hit points, and that will bring you up to 10 hit points. You can put it down as soon as possible.
+
+To make you more difficult to kill, try a Strength check to disarm any creature in range. On a success you'll be able to kill them before they deal you any damage whatsoever, but if you fail, it takes a turn, for every failed save you make during your turn. It's like using a sling to grab a limb and pull it out. You gain three temporary hit points. That's enough to kill three (or more) creatures at once with a single successful Strength check, but you might not succeed that many times, since each failure will leave you with only eight hit points. It's just a trade-off here. Also, it'll take three attacks (or more) before you're done, because that's the maximum number you can take before gaining temporary hit points.
+
+
+===
+Room 4 - Bed Chamber
+===
+The passageways open to an opulent bedchamber, where the party finds all of King Arthur's knights lounging and smoking a cigar. The room is also home to all of the King Arthur legends, so you may see some of your favorite battles, heroes, and battlescenes. If the house is in shambles in that instance, the house may be abandoned.
+
+The house will have a unique set of doors and you will also see an original sign that shows the house's history. It's in very good condition, but the door handle is missing.
+
+Another clue is that there is an old coin case sitting outside the doors. If you look on your left it says "Arthur & Robin", as well as "The Fairies/Jesters/Sorcerers" and two swords. It's safe to say that it belongs to one of the Merlin/Queen family, but there's very little info regarding it. There is also an old iron dagger near the handle on that coin case, and a broken coin on the wall that says "Merlin". These are items that might indicate a murder.
+
+An oddball clue is located directly across from the main door. A little further from the door is a long stone slab that suggests the use and use of stone and iron to build the house. You'll also discover artifacts from a different period.
+
+
+===
+Room 5 - Square Room
+===
+In the square room, the party must decide how to proceed. On the table, they'll find the item they need--the item of the night to replace the previous night's item in the room. Pick up the key and enter the next room. There'll be a group of goblins trying to break into the building. Make sure you don't fight them and then go outside and find the nearby treasure map. When you're finished, return to the main area and continue through the rest of the game. Reward: EXP 1000, 30,000 Yen. When doing the Treasure Trails, make sure to search for the Warp Core Lv. 2 and Chariots of Fire.
+
+
+===
+Room 6 - Long Room
+===
+The Long Room contains a set of eight books on Alchemy that can be found in the Long Room.
+
+The Long Room has a number of unique items, a quest to find all the items, a room full of gold, the Grand Staff item, and a chest containing random gold.
+
+The Grandstaff item allows the player to teleport into the middle of the room and change the world to the player's original world. The item allows players to freely switch worlds and to teleport between them, so using it will allow switching worlds to begin with.
+
+The Grandstaff can be purchased from a merchant using the quest "To the Great Palace".
+
+There is also a chest that contains random gems if the player is using the Grand Staff item. The gem has a value of 1,000 when dropped, 1,250 when picked, and 1,750 when put into the chest.
+
+
+===
+Room 7 - The Narrow Hall
+===
+When the party enters The Narrow Hall, they'll appear on a different floor. Go ahead and leave the room you just ended up in; they'll turn into a man and a girl in their late thirties. This will lead to the second and final quest "The Dreamer's Daughter", which will be explained later. They'll tell you that there is nothing in The Dreamer's Dreamery, though you can hear a faint voice which they refer to as "The Dreamer's Daughter". This voice tells you of how to solve The Dreamer's Dreamery and defeat the Nightmare Lord.
+
+The quest will unlock later in Act II.
+
+Upon finishing this quest, you will find yourself at The Dreamer's House and the Shadowgate. The nightmare has already fallen and has now taken its place among you - a place which can only be overcome by the Dreamer himself. If you seek a way to destroy it and save the Dreamer...
+
+You can use this item to summon forth a powerful creature which will attack you, allowing you to escape, or in the case of your enemies: you just might find yourself being dragged and attacked by it. The final method of victory depends on your abilities here.
+
+
+===
+Room 8 - Storage
+===
+This storage room is nondescript. A wooden desk and two chairs are placed in it, and the door leads to a narrow hallway.
+
+
+===
+Room 9 - Statue Puzzle
+===
+This room contains a statue puzzle. You have to press the buttons and make a choice. It's tricky as each answer reveals additional details of the scene and the game! There is a large prize for the player which you can use to unlock the next panel!
+
+This game comes with 3 different themes: 1. The classic "Crown of Thorns" theme 2. The "Crown of Thunder" theme 3. The "Crown of Magic" theme.
+
+If the party solves the statue puzzle, then they win. This also applies to other puzzle puzzles: if this is found before the last point is reached, the result changes. The problem is solved, but the party is still stuck. If we take into account all possible paths through different worlds (and of course all paths go in the same direction), there is not even the faintest possibility that this puzzle could be solved.
+
+In my last article, I mentioned that an enemy with a very different personality might be of interest to players. I think they are right to have some interest. I am hoping that in this part of the story, these things are not completely lost to the game's world. In this point of the story, the player isn't in charge at all!
+
+So while you might think it's very rare that a character will be the boss, I know of only one case of the player as the leader of an evil race during my time playing the Star Ocean series.
+
+If the party does not solve the statue puzzle in time, a new set of statues appears that offer a more complicated path. Each of these statues also contains a different challenge depending on where the problem takes you, and the reward varies depending on how far in advance the party's plan is for achieving it.
+
+On the left is the original Stone of Jasmine at a standstill and is inaccessible after completing its second phase. The quest text mentions not stopping it, but it can be completed later using the stone. On the right is the fourth quest set, which includes a new statue and the quest text mentions giving it to the king in exchange for a necklace for Valoran. At the end of this set you will get a chest with a key to the palace floor and a message that says the statue "isn't working".
+
+The statues are the result of a quest which is not immediately available until you reach High Rock. It is not possible to finish that quest before level 50; at that point, the statues are added to be replaced with statues from the first quest. Doing this will be required for completing the final temple quest.
+
+The only quest set required for reaching High Rock that does not use these statues in exchange for a piece of gear is the First City Quest.
+
+
+===
+Room 10 - Library
+===
+The party discovers a library. This is a wonderful place and, as expected, the books are worth quite a bit. However, the second library, on the other hand, is nothing like the Library of Alexandria or the Library in Spain. It is simply a collection of books. The books are not as well organized as the books in the other libraries, which are made up of thousands of books that have been placed in the proper order and are now arranged in chronological order. This is not to mention the books in their original order of appearance. The person who owned this library is not familiar with the books and cannot figure out which books to read and why. What is interesting is that he also can't understand why he cannot find a book in the bookshelves. The books were brought to the library, though they belong to different people who had different motives for acquiring them. This is what makes his library so strange; the books are owned by the same people who have the same interests on the books.
+
+
+===
+Room 11 - Great Hall of the Dwarves
+===
+
+The party enters The Great Hall of the Dwarves, and discover some items about the party's past.
+
+The first time the Dwarves of Rohan took part in the Battle of Helm's Deep they were a warrior race of men, but once King Gondor arrived with an army, they were disheartened. So the King appointed Viserion to lead them again, but he lacked experience. That is when they heard of an obscure Dwarven kingdom on the southern coast of Gondor, and when his army marched south from Gondor, three brothers of the King, named Elrond, Aragorn, and Gimli, followed them. The Prince, Arwen, was also with them, and was given an orc as a hostage and told to lead the men down from Helm's Deep and to meet her in the Hall of Erebor. But at the Battle, the orcs took the King's forces along with their own. The Battle ended badly for Aragorn, as he and his soldiers were cut down by the Orcs, their swords missing and their armor falling apart. They managed to get back to the camp, but it seemed they had missed a large group of dwarves. There they found that one of their forces had also been cut down, but their leader was too old or too weak to be killed.
+
+The Great Hall contains many statues of deities that can be collected for use with the Goddesses of War and Light as well as a shrine to the goddess of light Serenity. It holds a multitude of treasures as well as a number of rare spells, items, and equipment, ranging from the magical staff of Vashara to the ring of Light, which appears on one of the statues. While some of these artifacts can be used in combat, they will not replenish your Health, Strength, or Magic stat points as quickly as others, and as such, will not be returned when you use them again. When a monster dies, the statue is removed from the Hall and returned to the shrine.
+
+The statue will return once you use either any of the three main types of weapon-style items in either the Warrior's, Cleric's, or Duelist's stances, depending on which weapon it was last created with.
+
+If the party searches The Great Hall, the party may find an item of interest:
+
+Lapis Lazuli: If the party finds any treasure in the Great Hall, the party may find Lapis Lazuli.
+
+Rajang Kholi: If the party finds the Amulet of Glory and the Key From The Depths, the party may be able to talk to Kholi.
+
+Searching The Great Hall is like wandering through the city streets in the real world where everything is built to withstand the elements. Once you hit The Great Hall you'll be in a nice spacious area, and the map will tell you your current position. If you find some food then you'll have the chance to choose how many turns you want the food, and how many you want to keep. You can save up food quickly by clicking 'Yes' so that food will be stored for more turns. Food costs 1 point when sold, and 2 points when eaten.
+
+===
+Room 12 - Small Room
+===
+This small room is dimly lit. There's not much in the way of furniture, but you could make a decent fire in there, which is definitely a bit of a nice bonus. This is also where you can find a set of the "Chaos" weapons, which, while less-than-stellar when compared to the others in your collection, are still very viable weapons, and not at all out of place to keep an eye on.
+
+You can also find these weapons in certain areas, notably on the roof of the Cathedral. I would highly recommend taking some time there... but the game doesn't really let you go to the roof as much.
+
+Once you've gotten the weapons you fancy, you may or may not want to make an effort to keep your inventory full, which means checking your "Weapons of Choice" list first to be sure that there's not too much left on hand. You'll find the list of items within here under the "General" section.
+
+If you're using a mod to increase the total of weapons, you can create an object to hold the items for you, although if the items aren't there, they'll be lost forever.
+
+You have seven different armors to select from. They fall into three categories: Leather, Leather Armor, and Composite Armor.
+
+
+===
+Room 13 - Guard Room
+===
+
+This room is a guard room. The guard is in the basement holding a torch and can be found either in or behind the stairs of the second floor.
+
+Climbing up the walls and jumping to the ledge above, there's an opening towards the door in the corner where the guard is standing.
+
+There is one more door to the room from which the guards cannot be seen. This is the second door out of the way.
+
+There is another staircase and to the right there is a broken rock piece before entering the room with the first door. There is a ladder leading up there from the room to the second floor.
+
+In the second room, there are more rooms and a pair of windows, however, only one of the windows can be seen.
+
+There seems like there can be a staircase directly above a chest in the second room, however that cannot be established.
+
+This is not a trap room. There isn't a door (unless the door is to allow the player to escape) and there is a dead body on every floor of the dungeon. The only way for the player to get out of a level like this is if they jump off the edge and into the room with all the other guards and then leave.
+
+
+===
+Room 14 - Treasure Room
+===
+Crudely carved double doors open on a room filled with treasure. Inside is a huge box of gold, a sword, some weapons, and a scroll.
+
+At first glance, that scroll may have been the perfect gift for you. But then it had a trap-like effect to it. One of the gems embedded in it, which had the most powerful curse spell, is actually an incurable and fatal status ailment. It will poison the user. No matter how much money one has, it remains a permanent permanent injury for the user even if they don't have the means to pay the ransom.
+
+And, if the user continues to use this curse, they'll become more and more susceptible to this curse, making their life miserable. A great number of enemies will attack you, and if they do, you'll need to fight with all your might. You might as well not take that opportunity.
+
+"It seems to be a rare item, I'd like you to take it. The treasure will come back to us one of us, not a single one of you will go unreturned."
+
+
+===
+Room 15 - Throne Room
+===
+At the end of the dungeon is a throne room. You will find a boss near the door that you need to fight to move on. Once you have killed the boss you'll be taken into the Throne Room. Here you'll see a boss called "Abandoned Beast". It has three arms and can shoot at you. The goal of this boss is to eat his eyes and to bring him down to 0 HP. Your best attack is to make sure you have at least one heart left to heal after you eat the eyes. Once the eyes are gone then you'll get a cutscene in which you can talk to the NPC who attacked you again and again. In this cutscene the boss will change its form. This time, however, he will only keep up the fight if he's killed by you. Once it is killed, you get the final boss reward - another heart. If that's not good enough, he'll drop one of a pair of "Tribal Ring" that allows you to summon minions from the next floor up. So what you'll need to do now is defeat them all. There is a chance you may get a second fight by getting a couple of rings and then moving on to the room behind the first throne room.
+
+If the party survives and searches the throne room, will Korgan receive a reward?
+
+Yes! In the Throne Room, you will find that you get one (1) Reward.
+
+Do we need the reward from the quest-giver's party or a member of the player's?
+
+Once they're dead, both are optional.
+
+I'll lose the rewards at the conclusion of the quest!
+
+You can't lose rewards by doing other quests, so they cannot be lost. However, we aren't yet sure of the proper way to gain them back. The easiest way to do that is simply to return them to the table to your friends' party for them to return them later during the game. This, of course, should not take longer than 3-6 hours and is quite difficult to implement into a gameplay experience!
+
+If we have a lot of rewards and we lose a little, do we get refunded?
+
+No. Your rewards and other resources do not leave your account until you leave the game session. If you fail in your quest, your game session does not count towards the final tally. Rewards can end up in any one location on your account, depending on your behavior and where the quest was undertaken.
+
+Will reward items have any effect on the outcome of a quest?
+
+Yes.
+
+
+=====
+Level 2 - the caves
+=====
+
+===
+Area 1 - Low Crawl
+===
+It is not always possible to see what is behind the wall or ceiling or even where you are standing.
+
+A number of objects can be seen in the cave, mostly related to death-caves.
+
+If the party searches this low cavern, it will find no more than four items. The party can then use any treasure they found there to make their way up the mountain.
+
+This means that the party is in the bottom left corner, just beyond the door near the entrance to the cavern. There are two entrances here, one to the north and one to the south. Note that a passage, which leads to the entrance at the northeast corner of the cavern, is blocked by a stone wall. At this point, the party must jump onto a rock and use the "Pump" action (1×4×4) to climb up the stone wall. After taking some damage, they're taken with herding the group of five or six people into the cave.
+
+To the right, a cave entrance lies in the center of the mountains. The path begins around a bend in the mountain, and continues uphill for a couple of steps, to reach a passage leading to a small room.
+
+
+===
+Area 2 - Colossal Cave
+===
+The passageway opens into a colossal cave. There's a strange object in a crate lying on the ground, and when the player presses it, a light flashes on and the game begins to play.
+
+It's a bit hard to tell what this is. You can see the shape of a skull or a human head in a cave, but a human figure in the cave isn't clearly visible, and it may be that the skull appears in this area, but the rest of the cave seems to be empty, and some of the other figures do not appear. This game takes place after Doom 3's Endgame section, if any, and while it was a lot of gameplay to get through that area, it wasn't that boring.
+
+After that, one can go straight to the next area.
+
+The last part, which is the toughest in the game, leads to a giant room with lots of rooms in the bottom of this cavern. There's a small elevator in these rooms that goes up to something, and it's the only way that the player can go inside the area when they've reached the end of the endgame.
+
+There's no way there's another way back to the main area.
+
+
+===
+Area 3 - Cave of Fools
+===
+The denizens of the cave system call this cave The Cave of Fools. They are a group of misfits that seek to create an escape from whatever trouble they can find. The caves they seek to escape to offer them hope and a sense of freedom from all that they have had to endure. While some of them try to make their own way inside the Cave of Fools to find some peace and safety, some cave dwellers become obsessed with building a wall around their own home to hold all the crazy and unhappy people in it.
+
+All members of the group follow what the cave denizens call the "Dawn of the Cave People". At the end of the cave people's lives, they form a group, called the Dreaming Cavern Circle, and begin working to destroy anything they can destroy with their minds. Once they complete this part of their life, they travel back in time to the previous part of their lives, where they have to destroy them in place of the cave people.
+
+Once a large tribe of cave dwellers, the Dreaming Caverns in The Cave of Fools were formed and became a source of chaos among the cave people. They were the heart of the cave people, and in time they became so large that many of them became too dangerous for people from other tribes to visit. 
+
+
+===
+Area 4 - Dungeon of Bones
+===
+The party discovers a dungeon filled with bones. It turns out that those skeletons are actually real human beings...except the player has a magic ring with a skeleton of himself holding a knife in one hand. He makes his escape by making his way through a giant maze! The wizard asks if he killed anything, but he says he "wanted to kill a whole bunch of other little ghosts of my predecessors" and it was just him, so "I've become a good enough wizard to have killed plenty before." It's not hard to figure out he's lying, since as you may have guessed, he's actually the wizard's brother (and the wizard's dad - if only the dad knew that) and the father would never have allowed their dead son to play magic in the first place.
+
+There's also a hidden door next to your main hallway which is connected to a "super boss room". You can get into the room by sneaking into a closet and opening it, but it's just a bit of a trap and not anything worth visiting. Also the staircase leading up from there to the third floor is just a short walk down to a locked door leading to the entrance of a room full of glowing green goo.
+
+The second section of the cave is actually part of what's called the "Great Room" that was part of the main dungeon when it was first discovered. 
+
+
+===
+Area 5 - Dark Cave
+===
+This cave is darker than all the others before. The rock walls and some of the ceiling are even broken. There are several steps that lead to the center of the cave. Before you enter the cave, take the stairs leading down and take out your torch to illuminate the area above the waterfall down below. There are several other small caves in the area around here and there shouldn't be anything dangerous so be sure to explore them on your own before continuing on. Once you have lit up the cave, be sure to use the torch to examine the ceiling next to the waterfall. Look for a little pink blob in the corner and make your way up there. Go up and examine the waterfall until you come to a small rock wall. Make your way through the wall and head right now down to your left until you come to a small ledge which leads down to a small cavern. Once you have jumped down the cliff, you can explore the cave further on down below until you reach another small ledge. Go down this one and find a ladder, climb on it and take the two steps down into the tunnel below to reach an air shaft and the cave that leads to the next area. There should be other caves of similar size all around here but I am just listing the cave just so you know what to expect.
+
+
+===
+Area 6 - Labyrinth
+===
+You are in a maze of twisty little passages, all alike. The corridor leading to the other end is lined with statues. Each statue shows a story you've already told. The room is full of curious looking creatures, who've chosen you to share and explore. The statues and sculptures can help you see things and hear things, and they are in the form of the same creature every time you visit. You can make a move on one (or more) statues and it will help you get to the treasure behind. (When they're not moving around the room, they'll just be staring in confusion.) You can spend gold to get out of there, but a thief will be trying to steal your money! You won't be able to avoid this fate if you stay here and let any of the statues, or statues of them, fall (even dead). On your quest to find the treasure, you'll have to find these statues and the three statues of the same form from before to move on, and in doing so get the treasure!
+
+You'll be walking through the maze of stone paths and the corridors and halls. You'll have to find your way across the corridors and halls or you'll fall. Your path will start at the end of the corridor above the statue (on the right hand side), then through some other corridors to the left, and then onto the right hand side.
+
+The door to 2nd floor is locked. The light from above causes the doors to appear. Both of you are surprised to see that a door at the front of the wall is opened. It looks like it's part of your opponent's plan! It looks like that is all the light you ever got from that first tower. You are now locked to that platform. There's nothing for you to do other than wait for your turn to make it here. When time is up, we're going to make you walk all the places that your opponent could want to place evidence with his or her hands. And this is where the story begins.
+
+This particular area should be familiar to anyone who's played through the title and seen the levels. Everything is covered in rubble and covered in small footprints from when the tower was built. It's all dark and very sparse. This area should be the scene of an explosion. Nothing can be seen in the direction, but it shouldn't be too difficult to follow our direction in case someone tries to go in there.
+
+
+===
+Area 6a - The Cave of Doom
+===
+The final cavern is a crude shrine, with a massive idol. Once he enters it, the player must go through the shrine and collect the various orbs to open further doors and defeat the demon inside. In addition to the four of the four Demon Gods, there are two more of the original six and an extra angel. In the second room of the cave are a couple of chests and a chest containing a pair in the middle of the main hall. In the second room is a pair of chests and a chest containing a ring. In the last cavern contains a pair of chests, an item chest, two of the aforementioned Demon Gods, a pair of Demon Lord swords and two more Demon Gods. This is the only location with four Demon Lords instead of six.
+
+Searching the idol reveals only the name of the idol's owner to be a mystery.
+
+Careful inspection of the shrine shows that it has been used for many thousands of years.
+
+As well as the wooden statues and the bronze cross, there are also relics, including jars, jars of wine, bowls of meat, jars of honey, jars of wine and jars of beer in a glass case.
+
+The only things that are missing are the pot, cup, and chalice used in the temple ceremony.
+
